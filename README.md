@@ -13,3 +13,6 @@ maxlevel: 100
 | Default command | Parameter | Description | Permission |
 | :-----: | :--------: | :---------: | :----------: |
 | /itemenchant | --- | Sends you the enchantment ui | command.itemenchant |
+
+## Important
+Currently, you can only add the implemented enchantments.
