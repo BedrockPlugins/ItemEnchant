@@ -1,0 +1,7 @@
+name: ItemEnchant
+authors:
+  - benjamin.
+  - BedrockPlugins
+version: 1.0
+api: 3.2.0
+main: BedrockPlugins\ItemEnchant\ItemEnchant
